@@ -1,0 +1,18 @@
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\bin\Debug\Map Editor.exe.config
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\bin\Debug\Map Editor.exe
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\bin\Debug\Map Editor.pdb
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map Editor.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map_Editor.MainForm.resources
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map Editor.csproj.GenerateResource.Cache
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map Editor.exe
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map Editor.pdb
+C:\Users\Mirela\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map_Editor.NewMapFIXED.resources
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\bin\Debug\Map Editor.exe.config
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\bin\Debug\Map Editor.exe
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\bin\Debug\Map Editor.pdb
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map Editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map_Editor.MainForm.resources
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map_Editor.NewMapFIXED.resources
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map Editor.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map Editor.exe
+C:\Users\Alex\Documents\SharpDevelop Projects\Map Editor\Map Editor\obj\Debug\Map Editor.pdb
