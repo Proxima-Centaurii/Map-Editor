@@ -1,6 +1,6 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: Mirela
+ * User: Alexandru
  * Date: 3/23/2017
  * Time: 10:29 AM
  * 
